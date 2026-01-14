@@ -1,20 +1,21 @@
 {
-  "name": "self-optimizing-react-dashboard",
+  "name": "self-optimizing-dashboard",
   "version": "1.0.0",
+  "description": "A self-optimizing React dashboard using Vite, Tailwind CSS, and Framer Motion",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview"
   },
   "dependencies": {
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0",
-    "framer-motion": "^6.0.0"
+    "framer-motion": "^5.5.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
-    "@types/react": "^18.0.0",
-    "@types/react-dom": "^18.0.0",
-    "typescript": "^4.0.0",
-    "vite": "^2.0.0"
+    "@types/react": "^18.0.20",
+    "@types/react-dom": "^18.0.6",
+    "typescript": "^4.8.4",
+    "vite": "^3.0.9"
   }
 }
