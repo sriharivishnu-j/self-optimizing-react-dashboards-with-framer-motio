@@ -1,4 +1,7 @@
-#!/bin/sh
+#!/bin/bash
 
-npm install
-npm run dev
+# Install dependencies
+yarn install
+
+# Run the project
+yarn dev
